@@ -17,7 +17,7 @@ Here you will find all the links for all the presentations used for the Crash Co
 - [AI Crash Course 01: Machine Learning & Regression](https://view.genial.ly/61944323572a5e0d861065bb/presentation-ai-crashcourse01)
 - [AI Crash Course 02: Metrics and Variable Selection](https://view.genial.ly/6196efb01bfa3c0dac953b67/presentation-ai-crashcourse02)
 - [AI Crash Course 03: Machine Learning & Classification](https://view.genial.ly/6197f155542e220dab592309/presentation-ai-crashcourse03)
-- [AI Crash Course 04: Deel Learning & Neural Networks](https://view.genial.ly/619d2404371f850d8bb13f7e/presentation-ai-crashcourse04)
+- [AI Crash Course 04: Deep Learning & Neural Networks](https://view.genial.ly/619d2404371f850d8bb13f7e/presentation-ai-crashcourse04)
 - [AI Crash Course 05: Underfitting & Overfitting](https://view.genial.ly/619e85e4ae59f30d5cb303d0/presentation-ai-crashcourse05)
 - [AI Crash Course 06: Convolutional Neural Networks](https://view.genial.ly/619fcd2a0ae1200db0d2d01c/presentation-ai-crashcourse06)
 - [AI Crash Course 07: Autoencoders](https://view.genial.ly/61a033a3d9c41f0da944cd11/presentation-ai-crashcourse07)
